@@ -313,48 +313,29 @@ Vitamin K, particularly K2, is emerging as a potential longevity compound due to
 Manganese (Mn) is an essential metal that plays a crucial role in antioxidant defense mechanisms and longevity. Studies have shown that Mn-superoxide dismutase (MnSOD) gene variants are associated with increased longevity and decreased mortality in the oldest old (Soerensen et al., 2009). Low-dose Mn supplementation has demonstrated protective effects against oxidative stress and neurodegeneration in animal models (Sziráki et al., 1995; Bonilla et al., 2012). In human fibroblasts, Mn supplementation increases SOD2 activity and reduces superoxide anion generation in senescent cells (Ghneim, 2016). However, excessive Mn exposure can lead to neurotoxicity and oxidative damage (Parmalee & Aschner, 2016; Michalke, 2016). The antioxidant L-cysteine has shown potential in mitigating Mn-induced oxidative stress (Liapi et al., 2008). Interestingly, MnSOD may regulate longevity not solely through its antioxidant function but also by modulating physiological redox signaling (Honda et al., 2010).
 
 ## Blueprint Protein
-Blueprint Protein is the best in the world.
-Every science-backed ingredient actively supports digestion, gut bacteria, energy balance, and performance.
-It delivers a complete and balanced meal with the right ratios between protein, carbohydrates and fats.
-It’s extensively tested and third party lab results are shared publicly.
-No fillers, preservatives and gluten-free.
-No one else does this. 
-It's the best in the world. Here’s why:
-Science-backed Ingredients
-Pure pea and hemp protein. Compared to whey protein, pea protein is equivalent at inducing muscle growth (1) (2), but has lower amounts of allergen and harmful lipids (3). Hemp protein has an excellent amino acid profile that is anti-inflammatory, anti-oxidizing, and anti-cancerous. It also promotes parasympathetic (pro relaxation) activity and can lower blood pressure, as shown in preclinical research (4).
-MCT Oil Powder activates fat oxidation and provides a natural source of exogenous ketones.
-Flaxseed is a great source of fiber and omega-3 fatty acids.
-Pink Himalayan Salt: natural unprocessed salt providing potassium, calcium in addition to essential trace minerals.
-Allulose is a healthy, zero calorie, metabolically neutral sweetener. May aid weight loss and reduce body fat. Possesses antioxidant properties, supporting overall cellular health.
-Monk fruit: healthy, zero calorie metabolically neutral sweetener.
-Isomaltulose is a slow-release carbohydrate with a low glycemic index of 32 that is found in honey. Isomaltulose stabilizes blood glucose, supports fat-burning, improves endurance and supports heat tolerance while exercising.
-Resistant Maltodextrin is a fiber that improves digestive health, enhances the gut microbiome by promoting growth of beneficial bacteria, maintains blood sugar levels and insulin sensitivity, increases satiety, and boosts immune function by decreasing inflammation and increasing anti-inflammatory compounds.
-A Complete and Balanced Meal
+Blueprint Protein is the best in the world. Every science-backed ingredient actively supports digestion, gut bacteria, energy balance, and performance. It delivers a complete and balanced meal with the right ratios between protein, carbohydrates and fats. It’s extensively tested and third party lab results are shared publicly. No fillers, preservatives and gluten-free. No one else does this. It's the best in the world. Here’s why:
 
-Blueprint Protein has the right ratios between protein, carbohydrates, and fats that work synergistically.
-Proteins function as the building blocks that support muscle repair, maintenance and growth in response to physical activity.
-Fats help activate the body’s internal fat burning as well as providing essential beneficial types of fat.
-Carbohydrates provide energy to activate metabolism, supporting exercise and activity.
+### Science-backed Ingredients
+Pure pea and hemp protein. Compared to whey protein, pea protein is equivalent at inducing muscle growth (1) (2), but has lower amounts of allergen and harmful lipids (3). Hemp protein has an excellent amino acid profile that is anti-inflammatory, anti-oxidizing, and anti-cancerous. It also promotes parasympathetic (pro relaxation) activity and can lower blood pressure, as shown in preclinical research (4). MCT Oil Powder activates fat oxidation and provides a natural source of exogenous ketones. Flaxseed is a great source of fiber and omega-3 fatty acids. Pink Himalayan Salt: natural unprocessed salt providing potassium, calcium in addition to essential trace minerals. Allulose is a healthy, zero calorie, metabolically neutral sweetener. May aid weight loss and reduce body fat. Possesses antioxidant properties, supporting overall cellular health. Monk fruit: healthy, zero calorie metabolically neutral sweetener. Isomaltulose is a slow-release carbohydrate with a low glycemic index of 32 that is found in honey. Isomaltulose stabilizes blood glucose, supports fat-burning, improves endurance and supports heat tolerance while exercising. Resistant Maltodextrin is a fiber that improves digestive health, enhances the gut microbiome by promoting growth of beneficial bacteria, maintains blood sugar levels and insulin sensitivity, increases satiety, and boosts immune function by decreasing inflammation and increasing anti-inflammatory compounds.
 
-Blueprint Protein delivers the following
-A complete amino acid profile.
-A stable supply of energy while avoiding unhealthy sugar and insulin peaks.
-Fibers to support digestion and the gut bacteria.
-Ketogenic and omega-3 fatty acids to support beta oxidation and boost the omega-3 index essential for immunity, cardiovascular and metabolic health.
-Extensively Tested
+### A Complete and Balanced Meal
+Blueprint Protein has the right ratios between protein, carbohydrates, and fats that work synergistically. Proteins function as the building blocks that support muscle repair, maintenance and growth in response to physical activity. Fats help activate the body’s internal fat burning as well as providing essential beneficial types of fat. Carbohydrates provide energy to activate metabolism, supporting exercise and activity.
+
+### Blueprint Protein delivers the following
+- A complete amino acid profile.
+- A stable supply of energy while avoiding unhealthy sugar and insulin peaks.
+- Fibers to support digestion and the gut bacteria.
+- Ketogenic and omega-3 fatty acids to support beta oxidation and boost the omega-3 index essential for immunity, cardiovascular and metabolic health.
+
+### Extensively Tested
 Blueprint Protein is extensively tested by third party labs and the results are shared publicly.
 
-Heavy metals such as Arsenic, Cadmium, Lead, Mercury
-Over 69 types of pesticides including DDT, Aldrin, Dieldrin, Chlordane, Chlorpyrifos, Lindane, Malathion, Permethrin, and Heptachlor.
-Bad bacterias such as E. coli, Salmonella species, Staphylococcus aureus, and Mold.
-Potential allergens such as gluten
-But wait … you might say …
-Sugar is bad for me.
-This has ingredients I can’t pronounce!
-Protein is all I need.
-Our cultural programming needs some updating.
-Sugars can be good for you. Slower sugars with a low-glycemic index score, such as isomaltulose, can provide a slow and steady supply of energy without spiking blood sugar and insulin while also stabilizing blood glucose, supporting fat-burning, improving endurance and supporting heat tolerance while exercising.
-Not all proteins are created equal. A large study with 0.5 million participants concluded that plant protein reduced all cause and cardiovascular mortality within 16-year follow up time in both men and women (5). Moreover, replacing 3% of calorie intake from animal protein with plant protein reduced all-cause mortality by 11% and 12% in men and women, respectively.
+- Heavy metals such as Arsenic, Cadmium, Lead, Mercury
+- Over 69 types of pesticides including DDT, Aldrin, Dieldrin, Chlordane, Chlorpyrifos, Lindane, Malathion, Permethrin, and Heptachlor.
+- Bad bacterias such as E. coli, Salmonella species, Staphylococcus aureus, and Mold.
+- Potential allergens such as gluten
+
+But wait … you might say … Sugar is bad for me. This has ingredients I can’t pronounce! Protein is all I need. Our cultural programming needs some updating. Sugars can be good for you. Slower sugars with a low-glycemic index score, such as isomaltulose, can provide a slow and steady supply of energy without spiking blood sugar and insulin while also stabilizing blood glucose, supporting fat-burning, improving endurance and supporting heat tolerance while exercising. Not all proteins are created equal. A large study with 0.5 million participants concluded that plant protein reduced all cause and cardiovascular mortality within 16-year follow up time in both men and women (5). Moreover, replacing 3% of calorie intake from animal protein with plant protein reduced all-cause mortality by 11% and 12% in men and women, respectively.
 Single ingredient - you want food that creates the perfect metabolic environment for your body. You want a low blood glucose response, microbiome support, insulin response, fat oxidation, immune system support and more. Blueprint protein is designed for these objectives.
 Scientific names - If you saw “dihydrogen monoxide” on a nutrition label, you may be skeptical. If you researched it, you’d discover that it’s the scientific name for water. Judge ingredients not by their name but their scientific evidence. “Isomaltulose and Resistant Maltodextrin” are two such ingredients in Blueprint protein that may trigger initial skepticism but are actually health actives and supported by scientific evidence.
 Blueprint Protein is an all-in-one health and longevity meal.
@@ -365,44 +346,31 @@ https://www.sciencedirect.com/science/article/pii/S221345302200235X
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7358979/
 
 
-### My #1 Food For Anti-Aging
-When asked “what’s one thing to improve my health?”, I suggest extra virgin olive oil.
-
-EVOO is better than resveratrol, cold plunges, sauna, and your favorite podcast. But it’s difficult to reliably get high quality olive oil that meets our longevity criteria. Most suppliers do not even test their EVOO and some olive oil may not be what it claims. 
-
+## My #1 Food For Anti-Aging
+When asked “what’s one thing to improve my health?”, I suggest extra virgin olive oil. EVOO is better than resveratrol, cold plunges, sauna, and your favorite podcast. But it’s difficult to reliably get high quality olive oil that meets our longevity criteria. Most suppliers do not even test their EVOO and some olive oil may not be what it claims. To secure high quality olive oil for my personal health, we began sourcing the world’s premium olive oil from both hemispheres. Then friends and family tasted it and started asking for it too. Then it kind of became a thing.  We made the extra virgin olive oil available in the fall of 2023 and were caught off guard with how many others were into EVOO too. We immediately sold out. It’s now back in stock and in less than six months, we’ve become one of the world’s largest suppliers of premium extra virgin olive oil. People who know their olive oil love it, which makes us very happy. 
  
-To secure high quality olive oil for my personal health, we began sourcing the world’s premium olive oil from both hemispheres. Then friends and family tasted it and started asking for it too. Then it kind of became a thing. 
- 
-We made the extra virgin olive oil available in the fall of 2023 and were caught off guard with how many others were into EVOO too. We immediately sold out. 
- 
-It’s now back in stock and in less than six months, we’ve become one of the world’s largest suppliers of premium extra virgin olive oil. People who know their olive oil love it, which makes us very happy. 
- 
-Here’s the summary:
-Consume EVOO daily. Buy it from Blueprint or someone else. I’m good either way.  
-We’ve priced Blueprint EVOO as low as possible. I think it is the best priced EVOO for the quality on market.
-The taste is strong. It is rich and peppery almost to the point where you may cough when you take it straight. 
-I consume 3 Tbsp (45 mL) a day (1 Tbsp with each meal).
+### Here’s the summary:
+Consume EVOO daily. Buy it from Blueprint or someone else. I’m good either way. We’ve priced Blueprint EVOO as low as possible. I think it is the best priced EVOO for the quality on market. The taste is strong. It is rich and peppery almost to the point where you may cough when you take it straight. I consume 3 Tbsp (45 mL) a day (1 Tbsp with each meal).
  
 
-Here are the main criteria we use source Blueprint EVOO:
-Cold pressed
-High polyphenol count (over 400 mg/kg)
-High Oleic acid count (over 67%)
-Peroxide value < 9 MEQ/KG
-Free Fatty Acidity Levels (FFA) < 0.3%
-Diacylglycerols (DAGS) 90%+
-Harvest Date (the fresher the olives, the more nutrients they’ll have)
-UV protectant bottle
-Third-Party Tested
+### Here are the main criteria we use source Blueprint EVOO
+- Cold pressed
+- High polyphenol count (over 400 mg/kg)
+- High Oleic acid count (over 67%)
+- Peroxide value < 9 MEQ/KG
+- Free Fatty Acidity Levels (FFA) < 0.3%
+- Diacylglycerols (DAGS) 90%+
+- Harvest Date (the fresher the olives, the more nutrients they’ll have)
+- UV protectant bottle
+- Third-Party Tested
 
 
-The health benefits of EVOO are supported by strong scientific evidence. For example: 
-Blood Pressure and Arterial Stiffness (study) 
-Antioxidant capacity (study)  
-Cardiovascular risk (study) 
-Blood–Brain Barrier Function (study) 
-All-Cause Mortality (study)
-Body composition and blood pressure (study)
-Coronary Heart Disease (study)
-Depression Symptoms (study)
- 
+### The health benefits of EVOO are supported by strong scientific evidence
+- Blood Pressure and Arterial Stiffness (study) 
+- Antioxidant capacity (study)  
+- Cardiovascular risk (study) 
+- Blood–Brain Barrier Function (study) 
+- All-Cause Mortality (study)
+- Body composition and blood pressure (study)
+- Coronary Heart Disease (study)
+- Depression Symptoms (study)
