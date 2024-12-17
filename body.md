@@ -89,7 +89,7 @@ Large amounts of UV also increase the risk of skin cancers, such as melanoma, ba
 
 
  
-# Oral
+# Blueprint - Oral
 My teeth have caused me a lot of anxiety. When I first started Blueprint I was not in a good place. My gums were receding, my teeth were eroding, and my diet was full of sugar. I felt helpless and it was hard to look at my teeth in the mirror. If you feel similarly: you are not alone. Caring for your teeth is manageable and reversing damage is possible. 
 
 
@@ -171,7 +171,7 @@ If I spend the day on-the-go, I’ll take a travel toothbrush with me. Throughou
 Follow these steps and you’ll be off to a great start.
 
 
-# Heart
+# Blueprint - Heart
 Hi Friend,
 
 My heart recovers faster than 75% of elite athletes and 99% of the general population.
